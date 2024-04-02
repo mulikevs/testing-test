@@ -1,4 +1,4 @@
-package com.coopbank.testingtest;
+package com.sitemapdev.testingtest;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
